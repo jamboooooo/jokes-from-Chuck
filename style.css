@@ -1,0 +1,47 @@
+.main {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 50px;
+}
+
+.ready {
+    width: 230px;
+    padding: 5% 0;
+}
+
+.ready p {
+    margin: 0;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.btns {
+    width: 70px;
+    padding: 5% 0;
+}
+
+.btns button {
+    display: block;
+    width: 50px;
+    height: 25px;
+}
+
+#yes-btn {
+    margin-bottom: 10px;
+}
+
+.joke {
+    text-align: center;
+}
+
+.resp {
+    width: 300px;
+    margin: auto;
+    padding: 5% 0;
+    box-sizing: border-box;
+}
